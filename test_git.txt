@@ -1,0 +1,1 @@
+cd keywashington #this is the folder that will be added to an already created #repositorygit initls - agit loggit add .git statusgit commit -m "fern guide first commit"git loggit remote add origin https://github.com/gabizuquim/fernguidewashington.gitgit remote -vgit push origin master## testando modificacoes
